@@ -13,9 +13,9 @@ import org.springframework.ws.config.annotation.EnableWs;
 @SpringBootApplication
 @EnableSwagger2Doc
 @EnableScheduling
-public class SendServerQhApplication {
+public class SendServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SendServerQhApplication.class);
+        SpringApplication.run(SendServerApplication.class);
     }
 }

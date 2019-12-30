@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.hxgis</groupId>
-    <artifactId>send-server-qh</artifactId>
+    <artifactId>send-server</artifactId>
     <version>1.0</version>
-    <name>send-server-qh</name>
+    <name>send-server</name>
     <description>webapp</description>
     <modelVersion>4.0.0</modelVersion>
 
@@ -108,7 +108,7 @@
     </dependencies>
 
     <build>
-        <finalName>send-server-qh</finalName>
+        <finalName>send-server</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
